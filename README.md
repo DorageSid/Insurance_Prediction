@@ -28,10 +28,10 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 
 
 ## Web Inerface :
-![alt text]()
+![alt text](https://github.com/DorageSid/Insurance_Prediction/blob/main/images/webapp%20interface-1%20.png)
 
 
-![alt text]()
+![alt text](https://github.com/DorageSid/Insurance_Prediction/blob/main/images/webapp%20interface-2.png)
 
 
 ## Libraries used :
